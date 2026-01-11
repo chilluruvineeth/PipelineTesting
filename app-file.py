@@ -1,1 +1,1 @@
-HELLOO VCCC
+Print('HELLOO VCCC')
